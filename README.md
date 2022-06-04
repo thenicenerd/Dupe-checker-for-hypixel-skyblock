@@ -1,2 +1,2 @@
-# Ah-bz-flipper-for-hypixel-skyblock
-Hey this is the Official release of Ah/bz flipper No other source will give you this Private Mod for Hypixel Skyblock, the others are most likely a Scam.  The Mod features tons of features, ah flips and bazaar flips for all kinds of things and sometimes even market manipulations! If there is any Issue contact me on Discord: PandaGamer#7319 and I'll try to Help you out, if you're being nice.  Enjoy the Mod :)
+# Dupe-check-for-hypixel-skyblock
+Hey this is the Official release of Dupe-Check. No other source will give you this Private Mod for Hypixel Skyblock, the others are most likely a Scam.  The Mod features tons of features, it looks for dupe items on the ah or in your inventory and prevents you from buying it! If there is any Issue contact me on Discord: PandaGamer#7319 and I'll try to Help you out, if you're being nice.  Enjoy the Mod :)
